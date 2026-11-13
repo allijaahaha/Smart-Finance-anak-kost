@@ -1,0 +1,10 @@
+{
+    "halo": {
+        "saldo": 0,
+        "target_list": [],
+        "transaksi": [],
+        "histori_tabungan": [],
+        "emergency_fund": 0,
+        "potongan_emergency": 5000
+    }
+}
